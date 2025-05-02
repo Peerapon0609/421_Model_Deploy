@@ -1,7 +1,4 @@
+
 scikit-learn
 pandas
 xgboost
-matplotlib
-seaborn
-streamlit
-pickle
